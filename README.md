@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/Seneca-CDOT/telescope.svg?style=svg)](https://circleci.com/gh/Seneca-CDOT/telescope)
 [![js-airbnb/prettier-style](https://img.shields.io/badge/code%20style-airbnb%2Fprettier-blue)](https://github.com/airbnb/javascript)
-[![node-js-ci](https://github.com/matt-ross16/telescope/workflows/node-js-ci/badge.svg?branch=workflowbadge-test)](https://github.com/matt-ross/telescope/actions)
+![node-js-ci](https://github.com/matt-ross16/telescope/workflows/node-js-ci/badge.svg?branch=workflowbadge-test)
 [![node-js-ci](https://github.com/matt-ross16/telescope/workflows/node-js-ci/badge.svg?branch=master)](https://github.com/matt-ross/telescope/actions)
 [![node-js-ci](https://github.com/matt-ross16/telescope/workflows/node-js-ci/badge.svg?branch=workflowbadge-test?event=push)](https://github.com/matt-ross/telescope/actions)
 [![node-js-ci](https://github.com/matt-ross16/telescope/workflows/node-js-ci/badge.svg?branch=master?event=push)](https://github.com/matt-ross/telescope/actions)
